@@ -19,6 +19,6 @@ npm install
 npm start
 ```
 
-You need to signup with Firebase. (Free version would do).
+You need to signup with Firebase and create one app. In this case I created a firebase app named - breezeContactsApp. You would use the URL of this app to interact with Firebase through Angular and do the CRUD operations. (Free version would do).
 
 The above project was created by following the steps given in the tutorial at [Eduonix](https://www.udemy.com/learn-angularjs-development/)
