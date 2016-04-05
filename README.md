@@ -16,6 +16,8 @@ Tools used
 To get you started you can simply clone the repository and install the dependencies using the following command:
 ```
 npm install
+bower install foundation
+bower install angularfire
 npm start
 ```
 
